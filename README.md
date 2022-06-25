@@ -27,7 +27,7 @@ données utiles et les visualiser dans une carte géographique en utilisant .net
 
 
 # Perspective :
-nb : esp coonect au AP elle est configuré au niveau du code d'arduino , nous rendre cette tâche faisable sans l'aide d'un expert en peut ajouter un lcd et un clavier 4*4 pour permet de l'utilisateur à saisr un ssid et son password .
+nb : esp coonect au AP elle est configuré au niveau du code d'arduino , nous rendre cette tâche faisable sans l'aide d'un expert en peut ajouter un lcd et un clavier 4*4 pour permet de l'utilisateur à saisr son ssid et son password .
 
  
 
