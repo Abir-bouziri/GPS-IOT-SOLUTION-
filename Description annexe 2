@@ -1,0 +1,5 @@
+GPS PIN     ESP8266 PIN
+GND         GND
+TX          D1 (GPIO 5)
+RX          D2 (GPIO4).
+VCC         VCC
