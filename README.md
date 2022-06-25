@@ -9,4 +9,7 @@ L'annexe 1 qui aura lieu  dans ce dossier va vous expliquer le fonctionnement de
 
 L'arduino_gps_code__final1.ino : nous permet de extraire les données du GPS et l'envoit vers le serveur XAMP en utilisant LE DATA TYPE XML en utilisant le REST API .
 
+dota.php est un script php qui nous permet d' extraire les données d'un ficher XML et de l'insérer dans  la basse données SQL en utilisant le language PHP .
+
+
 
