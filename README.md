@@ -17,8 +17,7 @@ dota.php est un script php qui nous permet d' extraire les données d'un ficher 
 
 1- esp8266 communique avec le GPS à l'aide du branchement qui aura lieu dans l'annexe 2 et un code arduino  tout en envoyant les coordonnées nécessaires (latitude, longitude, id véhicule, immatriculé du véhicule) à la carte .
 
-2- esp8266 communique avec le serveur web en se connectant à l'AP (ACESS POINT ) où le serveur web y appartient (dans notre cas c’est le PC qui joue le rôle d’un
-point d’accès et contient le serveur web).
+2- esp8266 communique avec le serveur web en se connectant à l'AP (ACESS POINT ) où le serveur web y appartient (En travail dans un serveur local ,dans notre cas c’est le PC qui joue le rôle d’un point d’accès et contient le serveur web).
 
 3- web serveur exécute le script php dont ce dernier exécute la requête http ou https,
 extrait les données envoyées dans la requête et les insère dans la base de données.
