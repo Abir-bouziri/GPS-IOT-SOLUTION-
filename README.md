@@ -23,7 +23,11 @@ dota.php est un script php qui nous permet d' extraire les données d'un ficher 
 extrait les données envoyées dans la requête et les insère dans la base de données.
 
 4- A l’aide du .net connector nous pouvons accéder à la base de données et extraire les
-données utiles et les visualiser dans une carte géographique en utilisant .net framework.
+données utiles et les visualiser dans une carte géographique en utilisant .net framework. 
+
+
+# Perspective :
+nb : esp coonect au AP elle est configuré au niveau du code d'arduino , nous rendre cette tâche faisable sans l'aide d'un expert en peut ajouter un lcd et un clavier 4*4 pour permet de l'utilisateur à saisr un ssid et son password .
 
  
 
