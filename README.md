@@ -12,7 +12,10 @@ L'arduino_gps_code__final1.ino : nous permet de extraire les données du GPS et 
 dota.php est un script php qui nous permet d' extraire les données d'un ficher XML et de l'insérer dans  la basse données SQL en utilisant le language PHP .
  
  Le fichier GPS.SQL  est un fichier exemplaire SQL contient des données et des valeurs d'un GPS été en cours de fonctionement .
+   
+# Le fonctionnement de la solution :
  
+
  
 
 
