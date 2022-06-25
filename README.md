@@ -7,4 +7,6 @@ En deuxiéme lieu ,on a besoin d'installer un serveur XAMP .
 
 L'annexe 1 qui aura lieu  dans ce dossier va vous expliquer le fonctionnement de cette solution en détails.
 
+L'arduino_gps_code__final1.ino : nous permet de extraire les données du GPS et l'envoit vers le serveur XAMP en utilisant LE DATA TYPE XML en utilisant le REST API .
+
 
