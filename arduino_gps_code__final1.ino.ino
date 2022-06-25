@@ -21,8 +21,8 @@
 #include <TinyGPSPlus.h>
 #include <Arduino.h>
 SoftwareSerial ss(4, 5); // The serial connection to the GPS device
-const char* ssid = "LAPTOP-6BQ6PP1A 4648"; //ssid of your wifi
-const char* password = "29[929Ur"; 
+const char* ssid = "*************"; //ssid of your wifi
+const char* password = "*************"; 
 float latitude , longitude;
 int year , month , date, hour , minute , second;
 String date_str="" ;
