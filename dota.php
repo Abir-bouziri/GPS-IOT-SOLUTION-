@@ -26,8 +26,8 @@ if(isset($_GET["gps_time"])) {
 // REPLACE with your Database name
 $dbname = "gps_db";
 // REPLACE with Database user
-$username = "root";
-$password = '';
+$username = "**********";
+$password = '*************';
 
 
    // Create connection
