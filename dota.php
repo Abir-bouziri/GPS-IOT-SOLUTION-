@@ -54,9 +54,4 @@ if (mysqli_num_rows($result) == 0) {
    echo "location exist";
 }
    $conn->close();
- 
-/*else {
-   echo "temperature is not set";
-}*/
-
 ?>
